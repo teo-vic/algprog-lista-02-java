@@ -2,8 +2,8 @@
 
 ## 🧭 Menu
 
-- [Exercício 1 - Número informado](Numeroinformado.png)
-- [Exercício 2 - Dois números](DoisNumeros.png)
-- [Exercício 3 - Média notas bimestrais](media_notas_bimestrais.png)
-- [Exercício 4 - Gasolina](Gasolina.png)
-- [Exercício 5 - Eurotrip](Eurotrip.png)
+- [Exercício 1 - Número informado](Numeroinformado.java)
+- [Exercício 2 - Dois números](DoisNumeros.java)
+- [Exercício 3 - Média notas bimestrais](media_notas_bimestrais.java)
+- [Exercício 4 - Gasolina](Gasolina.java)
+- [Exercício 5 - Eurotrip](Eurotrip.java)
